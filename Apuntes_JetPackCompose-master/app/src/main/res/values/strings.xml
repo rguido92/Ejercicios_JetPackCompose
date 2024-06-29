@@ -1,0 +1,13 @@
+<resources>
+    <string name="sumar">SUMAR</string>
+    <string name="restar">RESTAR</string>
+    <string name="multiplicar">MULTIPLICAR</string>
+    <string name="dividir">DIVIDIR</string>
+    <string name="contador">CONTADOR</string>
+    <string name="resultado">RESULTADO</string>
+    <string name="numero">NUMBER</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="simple">SIMPLE</string>
+    <string name="viewmodel">CON VIEWMODEL</string>
+    <string name="app_name">NOTES</string>
+</resources>

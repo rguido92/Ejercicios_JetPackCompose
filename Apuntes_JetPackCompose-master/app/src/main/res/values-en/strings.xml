@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes JetPackCompose</string>
+    <string name="sumar">SUM</string>
+    <string name="restar">SUBSTRACT</string>
+    <string name="multiplicar">MULTIPLY</string>
+    <string name="dividir">DIVIDE</string>
+    <string name="contador">COUNTER</string>
+    <string name="calculadora">CALCULATE</string>
+    <string name="simple">SIMPLE</string>
+    <string name="viewmodel">WITH VIEWMODEL</string>
+    <string name="calcular">CALCULATE</string>
+    <string name="resultado">RESULT</string>
+    <string name="numero">NUMBER</string>
+</resources>
